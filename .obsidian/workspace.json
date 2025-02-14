@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Icons/SVG links.md",
+                "file": "Books/Wool/Wool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVG links"
+              "title": "Wool"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Icons/SVG links.md",
+                "file": "Books/Wool/Wool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SVG links"
+              "title": "Backlinks for Wool"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Icons/SVG links.md",
+                "file": "Books/Wool/Wool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SVG links"
+              "title": "Outgoing links from Wool"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Icons/SVG links.md",
+                "file": "Books/Wool/Wool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SVG links"
+              "title": "Outline of Wool"
             }
           },
           {
@@ -176,12 +176,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "a2ca779a52970001",
   "lastOpenFiles": [
+    "An Elegant Puzzle - Will Larson.md",
+    "Books/Wool/Wool.md",
+    "Images/Covers/An Elegant Puzzle - Will Larson.jpg",
+    "Images/Covers/Wool - Hugh Howey.jpg",
+    "Images/Covers",
+    "Untitled",
+    "Images",
     "Icons/SVG links.md",
+    "Books/Wool",
     "Icons",
     "Books"
   ]

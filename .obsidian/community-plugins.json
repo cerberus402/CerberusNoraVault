@@ -2,5 +2,7 @@
   "obsidian-git",
   "dataview",
   "advanced-canvas",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "folder-note-plugin",
+  "obsidian-book-search-plugin"
 ]
