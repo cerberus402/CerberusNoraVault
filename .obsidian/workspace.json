@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d6b72854a3126a",
+        "id": "628f056f0ce5242f",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ca779a52970001",
+            "id": "94cffdaae491aee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a2ca779a52970001",
+  "active": "94cffdaae491aee5",
   "lastOpenFiles": [
-    "An Elegant Puzzle - Will Larson.md",
+    "Books/An Elegant Puzzle/An Elegant Puzzle.md",
+    "Books/Books.md",
     "Books/Wool/Wool.md",
+    "Books/Wool/Chapter 1.md",
+    "Books/An Elegant Puzzle",
+    "An Elegant Puzzle - Will Larson.md",
     "Images/Covers/An Elegant Puzzle - Will Larson.jpg",
     "Images/Covers/Wool - Hugh Howey.jpg",
     "Images/Covers",
