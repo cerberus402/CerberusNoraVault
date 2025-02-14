@@ -24,4 +24,6 @@ localCoverImage: Images/Covers/Wool - Hugh Howey.jpg
 >[!TIP] Overview
 >The first book in the acclaimed, New York Times best-selling trilogy, Wool is the story of a community living in an underground silo completely unaware of the fate of the outside world. When the silo's sheriff asks to leave the silo, a series of events unravels the very fabric of their fragile lives. In a world where all commodities are precious and running out, truth and hope may be the most rare...and the most needed.
 
-[[Chapter 1]]
+```dataview
+LIST WHERE contains(file.folder, this.file.folder) AND file.name != this.file.name
+```
